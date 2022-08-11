@@ -323,7 +323,6 @@ amatirisme
 amato
 amatofobia
 amau
-amau
 ambah
 ambang
 ambar
@@ -2202,7 +2201,6 @@ broca
 bromocorah
 bronat
 brongsong
-brongsong
 bronkial
 bronkodilator
 bronkoesofagologi
@@ -3474,7 +3472,6 @@ ganggang
 gangguan
 ganiometer
 ganjo
-gano
 gano
 gansai
 gantang
@@ -12229,7 +12226,6 @@ salinan
 salinisasi
 salju
 salsa
-salsa
 salto
 saluran
 sama
@@ -14132,7 +14128,6 @@ tuas
 tuba
 tubruk
 tubuh
-tubus
 tubus
 tuduh
 tuduhan
