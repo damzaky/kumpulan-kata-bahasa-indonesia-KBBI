@@ -28,7 +28,7 @@ aba-aba
 abaaka
 abab
 abad
-abad al-ab?d
+abad al-abīd
 abad keemasan
 abad komputer
 abad modern
@@ -561,7 +561,7 @@ adati balano
 adatuang
 adau
 adbukin
-ad-daulah al-isl?miyyah
+ad-daulah al-islāmiyyah
 ad-duha
 ade
 adeabiasang
@@ -1381,7 +1381,7 @@ ahli tetas
 ahli waris
 ahlilkitab
 ahlulbait
-ahlul-?all wal-’aqd
+ahlul-ḥall wal-’aqd
 ahlulkitab
 ahlulkubur
 ahlunujum
@@ -1979,7 +1979,7 @@ akhirusanah
 akhlak
 akhlaki
 akhlaq
-akhl?qul-kar?mah
+akhlāqul-karīmah
 akhlas
 akhli
 akhtaj
@@ -2414,7 +2414,7 @@ alakrima
 alalia
 alam
 alam akhirat
-’?lam ar??m
+’ālam arḥām
 alam arwah
 alam astral
 alam baka
@@ -2449,7 +2449,7 @@ alamak
 alamanda
 alamas
 alamat
-’al?mat al-bul?g
+’alāmat al-bulūg
 alamat jaringan
 alamat riil
 alamat virtual
@@ -2458,7 +2458,7 @@ alamete
 alami
 alamiah
 alamin
-al-amru bil-ma’r?f wan-nahyu ’anil-munkar
+al-amru bil-ma’rūf wan-nahyu ’anil-munkar
 alan
 alana
 alan-alan
@@ -2521,8 +2521,8 @@ alas tempat tidur
 alas tidur
 alas tilam
 alas wayah
-al-’a?abiyyah al-isl?miyyah
-al-’a?abiyyah al-jinsiyyah
+al-’aṣabiyyah al-islāmiyyah
+al-’aṣabiyyah al-jinsiyyah
 alas-alasan
 alasan
 alastono
@@ -2785,7 +2785,7 @@ algoritmis
 algrafi
 alhamdulillah
 alhanik
-al-haqq bil? ni??m yaglibuhul-b??il bin ni??m
+al-haqq bilā niẓām yaglibuhul-bāṭil bin niẓām
 alhasil
 alhijamah
 al-hijr
@@ -2868,7 +2868,7 @@ alingan
 alingkitae
 alino
 alins
-al-ins?n mak?nul-kha??’ wan-nis-yan
+al-insān makānul-khaṭā’ wan-nis-yan
 al-insyirah
 alip
 alip-alipan
@@ -2987,10 +2987,10 @@ alkus
 allah
 allah almakbud
 allah azza wajalla
-all?h ’azza wajalla
-all?h h?fiý
+allāh ’azza wajalla
+Allāh hāfiý
 allah subhanahu wa taala
-all?h sub??nah? wa ta‘?l?
+Allāh subḥānahū wa ta‘ālā
 al-lahab
 allahu akbar
 allahuma
@@ -3054,7 +3054,7 @@ alokasi dana pemerintah
 alokasi sumber daya
 alokasi waktu
 alokinesis
-?loko udap?di
+āloko udapādi
 alokromi
 alokron
 aloksenia
@@ -5424,7 +5424,7 @@ anus
 anuswara
 anut
 anutan
-anuttaram puññakkhetam lokass?ti
+anuttaram puññakkhetam lokassāti
 anvian
 anyak
 anyak-anyik
@@ -6141,7 +6141,7 @@ a.s.
 asa
 asa isit
 asa-asaan
-’a?abah al-qaumiyyah
+’aṣabah al-qaumiyyah
 asabat
 asabiah
 asabiyah
@@ -6427,7 +6427,7 @@ asfar
 asfiksia
 asfiksia neonatorum
 asfiksofilia
-a???bul-fur?? a???bul-fur??
+aṣḥābul-furūḍ aṣḥābul-furūḍ
 ashabulkahfi
 ashar
 asi
@@ -6617,13 +6617,13 @@ asri
 asrok
 asrot
 as-sabiqun al-awwalun
-as-s?biq?n al-awwal?n
-as-sal?mu ’alaikum wa ra?matull?hi wa barak?tuh
+as-sābiqūn al-awwalūn
+as-salāmu ’alaikum wa raḥmatullāhi wa barakātuh
 assalamualaikum
-a?-?amad
-as-s?mi’
-as-s?rah al-madaniyyah
-as-s?rah al-makkiyyah
+aṣ-ṣamad
+as-sāmi’
+as-sūrah al-madaniyyah
+as-sūrah al-makkiyyah
 asta
 asta-
 asta brata
@@ -6632,7 +6632,7 @@ astadikpala
 astaga
 astaganaga
 astagfirullah
-astagfirull?h al-’a??m
+astagfirullāh al-’aẓīm
 astagina
 astaka
 astakona
@@ -6737,7 +6737,7 @@ aswaja
 aswasada
 asyar
 asyera
-asyhurul-?urum
+asyhurul-ḥurum
 asyik
 asyik masyuk
 asyik-asyiknya
@@ -7081,9 +7081,9 @@ autotrof
 autotrofik
 autotropik
 autumnal
-a’??u bill?h
-a’??u bill?h min ??lik
-a’??u bill?hi minasy-syai??nir-raj?m
+a’ūżu billāh
+a’ūżu billāh min żālik
+a’ūżu billāhi minasy-syaiṭānir-rajīm
 availabilitas
 avalans
 avant-garde
@@ -7391,7 +7391,7 @@ ayomas
 ayong-ayong
 aytek
 ayu
-?yu vanno sukha bala
+āyu vanno sukha bala
 ayub
 ayuk
 ayum
@@ -16500,8 +16500,8 @@ bhmn
 bhutan
 bi
 bi-
-bi lis?ni qaumihi
-bi lis?nil-maq?l wa lis?nil-??l
+bi lisāni qaumihi
+bi lisānil-maqāl wa lisānil-ḥāl
 bia
 bia kobiwi
 bia-bia
@@ -16860,8 +16860,8 @@ bilatung
 bilau
 bilga
 bilhak
-bil-?ikmah
-bil-?ikmah wal-mau’izatil-?asanah
+bil-ḥikmah
+bil-ḥikmah wal-mau’izatil-ḥasanah
 bili
 biliar
 bilier
@@ -17259,7 +17259,7 @@ birokratisme
 bironi
 birorang
 biroronge
-birrul-w?lidain
+birrul-wālidain
 birsam
 biru
 biru benhur
@@ -17310,7 +17310,7 @@ biskuit
 bislama
 bismam
 bismillah
-bismill?hir-ra?m?nir-ra??m
+bismillāhir-raḥmānir-raḥīm
 bismut
 bisnis
 bisnis akuakultur
@@ -18068,7 +18068,7 @@ brengkesan
 brengsek
 bresihan
 bretel
-br?ve
+brěve
 brevet
 brevet kehormatan
 brevimanus
@@ -19141,7 +19141,7 @@ busieh
 busik
 busmetik
 bustan
-bust?nul-a?f?l
+bustānul-aṭfāl
 buster
 bustier
 busu
@@ -19866,7 +19866,7 @@ cato
 catok
 catokan
 catra
-catt?ri ariyasacc?ni
+cattāri ariyasaccāni
 catu
 catu cahaya
 catu daya
@@ -22335,8 +22335,8 @@ daur niaga
 daur ulang
 dauran
 da'wah
-da’wah bil-??l
-da’wah bil-lis?nil-maq?l
+da’wah bil-ḥāl
+da’wah bil-lisānil-maqāl
 dawai
 dawai duri
 dawai gelang
@@ -27346,7 +27346,7 @@ farak
 faranyao
 fardu
 fardu ain
-far?u gairu mu’akkad
+farḍu gairu mu’akkad
 fardu kifayah
 faret
 farik
@@ -27562,7 +27562,7 @@ ffi
 fh
 fhi
 fi
-f? sab?lill?h
+fī sabīlillāh
 fiasko
 fiat
 fiat experimentum in corpore vili
@@ -27780,7 +27780,7 @@ fitase
 fitilmenakuinon
 fiting
 fitnah
-fitnatul-kubr? al-?la
+fitnatul-kubrā al-ūla
 fitoakumulasi
 fitoaleksin
 fitobiofisika
@@ -32106,7 +32106,7 @@ hadis musalsal
 hadis mutawatir
 hadis palsu
 hadis qudsi
-?ad?? qudsy
+ḥadīṡ qudsy
 hadis sahih
 hadis takriri
 hadrah
@@ -32289,7 +32289,7 @@ halaman setengah judul
 halamuak
 halang
 halangan
-?alaqah
+ḥalaqah
 halasa
 halau
 halazon
@@ -32560,7 +32560,7 @@ harapu
 haraun
 harawan
 harbi
-?arbul-fij?r
+ḥarbul-fijār
 hardik
 hardikan
 hardiknas
@@ -32894,7 +32894,7 @@ hawari
 hawiah
 hawik
 hawu
-?ay?h ijtim?i’yyah
+ḥayāh ijtimāi’yyah
 hayat
 hayati
 hayo
@@ -33897,7 +33897,7 @@ hiu kepala martil
 hiu parang
 hiu raksasa
 hiv
-hiw?lah
+hiwālah
 hiwang
 hiyayat
 hizib
@@ -34161,8 +34161,8 @@ hubad
 hubar
 hubar-habir
 hubaya-hubaya
-?ubbud-duny?
-?ubbul-wa?an minal-?m?n
+ḥubbud-dunyā
+ḥubbul-waṭan minal-īmān
 hubdar
 hubla
 hububan
@@ -34270,7 +34270,7 @@ hujat
 hujatan
 huji
 hujin
-?ujjatul-isl?m
+ḥujjatul-islām
 hujung
 hukah
 hukama
@@ -34506,7 +34506,7 @@ hurupa
 hus
 husnudzon
 husnulkhatimah
-?usnul-kh?timah
+ḥusnul-khātimah
 husnuzan
 husuk
 hut
@@ -35105,7 +35105,7 @@ ikut-ikut
 ikut-ikutan
 ikwi
 il duce
-il? ?khirih
+ilā ākhirih
 ilafi
 ilah
 ilahi
@@ -35160,7 +35160,7 @@ ilmu bintang
 ilmu bisnis
 ilmu bumi
 ilmu burhani
-’ilmu burh?ni
+’ilmu burhāni
 ilmu cuaca
 ilmu dagang
 ilmu daruri
@@ -35900,9 +35900,9 @@ inkuiri
 inkulturasi
 inkus
 inlander
-inna lill?hi wa inna ilaihi r?ji?n
-inna ?al?t? wa nusuk? wa ma?y?ya wa mam?t? lill?hi rabbil ’?lam?n
-innall?ha ma’a?-??bir?n
+inna lillāhi wa inna ilaihi rājiūn
+inna ṣalātī wa nusukī wa maḥyāya wa mamātī lillāhi rabbil ’ālamīn
+innallāha ma’aṣ-ṣābirīn
 inokulasi
 inokulum
 inomosi
@@ -35928,7 +35928,7 @@ insan pers
 insanan
 insang
 insani
-insanul k?mil
+insanul kāmil
 insar
 insek
 insekta
@@ -36698,7 +36698,7 @@ item legit
 iterasi
 iteratif
 iterbium
-’i?fatur-ra?m?n
+’iṭfatur-raḥmān
 itibak
 itibar
 itidal
@@ -36722,13 +36722,13 @@ itik surati
 itikad
 itikaf
 itil
-i’tim?d ’alan-nafsi
+i’timād ’alan-nafsi
 itinerari
 itisal
 itjen
 itlak
 ito
-’itqun min an-n?r
+’itqun min an-nār
 itrium
 its
 ittik
@@ -36760,9 +36760,9 @@ izin tinggal tetap
 izin usaha
 izin usaha bank
 ’izzatu an-nafsi
-’izzul-isl?m wal-muslim?n
+’izzul-islām wal-muslimīn
 j
-ja’anall?hu wa iyy?kum minal ’?id?n wal f?iz?n
+ja’anallāhu wa iyyākum minal ’āidīn wal fāizīn
 jaat
 jab
 jaba
@@ -37370,10 +37370,10 @@ janji gombal
 janji politik
 janji sampai, sukatan penuh
 jannah
-jannatul-a’m?l
-jannatul-ikhti???
-jannatul-m?r??
-jannatun-na’?m
+jannatul-a’māl
+jannatul-ikhtiṣāṣ
+jannatul-mīrāṡ
+jannatun-na’īm
 janom
 jantahan
 jantan
@@ -37681,7 +37681,7 @@ jayeng seteru
 jayus
 jaz
 jazab
-jaz?kumull?h khairan ka??ran
+jazākumullāh khairan kaṡīran
 jazam
 jazirah
 jazirat
@@ -38246,8 +38246,8 @@ jihad
 jihad akbar
 jihad ’alan-nafsi
 jihad asgar
-jih?d bil-lis?n
-jih?d bil-qalam
+jihād bil-lisān
+jihād bil-qalam
 jihad fi sabilillah
 jihadis
 jihandak
@@ -39522,7 +39522,7 @@ kalem
 kalembak
 kalempagi
 kalempe owa
-k?lena dhammas?kacch?
+kālena dhammasākacchā
 kalendar
 kalender
 kalender hijriah
@@ -41274,12 +41274,12 @@ kaum unionis
 kaum urakan
 kauman
 kaung
-kaunuh? ’?liman
-kaunuh? b??iran
-kaunuh? mur?dan
-kaunuh? mutakalliman
-kaunuh? qad?ran
-kaunuh? sam?’an
+kaunuhū bāṣiran
+kaunuhū murīdan
+kaunuhū mutakalliman
+kaunuhū qadīran
+kaunuhū samī’an
+kaunuhū ’āliman
 kaupui
 kaur
 kaureh
@@ -46326,7 +46326,7 @@ khalayak ramai
 khali
 khalifah
 khalifah dabus
-khal?fatul-ar?i
+khalīfatul-arḍi
 khalifatullah
 khalik
 khalikah
@@ -46374,7 +46374,7 @@ khazanah
 khazanah fonem
 khazanah kata
 khelasi
-khema?
+khemaṁ
 khi
 khianat
 khiar
@@ -46392,9 +46392,9 @@ khitan
 khitanan
 khitanan massal
 khitbah
-khiy?rul-’aib
-khiy?rul-majlis
-khiy?rusy-syar?i
+khiyārul-’aib
+khiyārul-majlis
+khiyārusy-syarṭi
 khizanatulkitab
 khmer
 khoja
@@ -49929,7 +49929,7 @@ kumur
 kumus
 kumut
 kun
-kun fayak?n
+kun fayakūn
 kuna
 kunang-kunang
 kunang-kunang sekebun
@@ -50498,7 +50498,7 @@ kyat
 kyrie eleison
 l
 la
-l? takhaf wal? ta?zan inna all?ha ma’an?
+lā takhaf walā taḥzan inna allāha ma’anā
 laal
 laas
 lab
@@ -50519,7 +50519,7 @@ laban
 laban abang
 labang
 labas
-labbaik all?humma laka labbaik
+labbaik allāhumma laka labbaik
 labda prakarsa nirwikara
 labeau
 labeh
@@ -50783,8 +50783,8 @@ lajat
 lajim
 lajing
 lajnah
-lajnah mun?ka??t
-lajnah tanf??iyyah
+lajnah munākaḥāt
+lajnah tanfīżiyyah
 lajolo
 laju
 laju alir
@@ -53237,7 +53237,7 @@ lilit kutu
 lilitan
 liliuran
 lillahi
-lill?hi ta’?la
+lillāhi ta’āla
 lima
 lima puluh kota
 lima waktu
@@ -54509,8 +54509,8 @@ madia
 madihin
 madik
 madinah
-mad?nah al-munawwarah
-mad?nah an-nab?
+madīnah al-munawwarah
+madīnah an-nabī
 madinatulrasul
 madinding
 mading
@@ -56158,7 +56158,7 @@ masalah
 masalah bernstein
 masalah seksual
 masalah warga negara
-mas?li?ul-mursalah
+masāliḥul-mursalah
 masam
 masama
 masambia
@@ -56642,8 +56642,8 @@ mausoleum cinta
 maut
 mauz
 mawadah
-mawaddah fil-qurb?
-mawaddah war-ra?mah
+mawaddah fil-qurbā
+mawaddah war-raḥmah
 mawaih
 mawar
 mawar gurun
@@ -70525,7 +70525,7 @@ mukenel
 mukernas
 mukhabarah
 mukhalaf
-mukhalafatuhu lil?aw?dis
+mukhalafatuhu lilḥawādis
 mukhalif
 mukhalis
 mukhlis
@@ -70817,7 +70817,7 @@ musabab
 musabakah
 musabaqah
 musabaqah tilawatil qur'an
-mus?baqah til?watil quran
+musābaqah tilāwatil quran
 musafar
 musafir
 musafirin
@@ -71010,8 +71010,8 @@ mutatisme
 mutator
 mutatus
 mutawatir
-mutaw?tir ’amal?
-mutaw?tir laf??
+mutawātir ’amalī
+mutawātir lafżī
 mutawif
 mute
 mutiara
@@ -71263,7 +71263,7 @@ nami
 namibia
 namnam
 namo buddhaya
-namo dhamm?ya
+namo dhammāya
 nampak
 nampal
 nampan
@@ -71508,7 +71508,7 @@ nautik
 nautika
 nautikal
 nautilus
-na’u?u bill?h
+na’użu billāh
 navigasi
 navigasi kutub
 navigator
@@ -73861,7 +73861,7 @@ otot trisep braki
 ototipi
 otsus
 ott
-ova?da pa?timokkha
+ovāda pātimokkha
 oval
 ovalbumin
 ovari
@@ -88015,7 +88015,7 @@ rahimakallah
 rahimakumullah
 rahman
 rahmat
-ra?matan lil-‘?lam?n
+raḥmatan lil-‘ālamīn
 rahmatullah
 rahop
 rahops
@@ -90561,7 +90561,7 @@ ruhani
 ruhban
 ruhbanat
 ruhbaniat
-r??ul-am?n
+rūḥul-amīn
 ruhulkudus
 ruilslag
 ruing
@@ -90958,13 +90958,13 @@ ruwat
 ruwat pekarangan
 ruwatan
 ruwet
-ru’yah al-hil?l
-ru’yah ??diqah
+ru’yah al-hilāl
+ru’yah ṣādiqah
 ruyak
 ruyap
 ruyat
 ruyatulhilal
-ru’yatull?h
+ru’yatullāh
 ruyung
 ruyup
 rw
@@ -90996,7 +90996,7 @@ sabas
 sabasani
 sabat
 sabatikal
-sabbe satt? sukhi hontu
+sabbe sattā sukhi hontu
 sabda
 sabda pandhita ratu
 sabel
@@ -91594,7 +91594,7 @@ salaton
 salatri
 salawat
 salawati
-?al?watull?h ’alaika
+ṣalāwatullāh ’alaika
 salawi
 saldo
 saldo awal
@@ -91659,7 +91659,7 @@ salju layang
 salju melalang
 salju tiupan
 salju tua
-?allall?hu ’alaihi wa sallam
+ṣallallāhu ’alaihi wa sallam
 salmon
 salmonela
 salmonelosis
@@ -97215,7 +97215,7 @@ sirap
 sirascakra
 sirat
 siratalmustakim
-?ir??al-mustaq?m
+ṣirāṭal-mustaqīm
 siratan
 sirat-sirat
 siraut
@@ -98988,7 +98988,7 @@ subfosil
 subgeneralisasi
 subgenus
 subhana
-sub??nahu wa ta’?la
+subḥānahu wa ta’āla
 subhat
 subirigasi
 subjek
@@ -100030,7 +100030,7 @@ sutura
 suudzan
 suuk
 suul adab
-s?’ul-kh?timah
+sū’ul-khātimah
 suun
 suuzan
 suvenir
@@ -100140,8 +100140,8 @@ syahdan
 syahdu
 syahid
 syahriah
-syahrul-?ar?m
-syahru?-?iy?m
+syahrul-ḥarām
+syahruṣ-ṣiyām
 syahsiah
 syahwat
 syaikh
@@ -100543,7 +100543,7 @@ tahar
 taharah
 tahbis
 tahbisan
-ta?d?dun-nasal
+taḥdīdun-nasal
 tahfifah
 tahfiz
 tahi
@@ -100574,7 +100574,7 @@ tahil
 tahini
 tahir
 tahiti
-ta?iyyatul-masjid
+taḥiyyatul-masjid
 tahkik
 tahkim
 tahlil
@@ -100667,7 +100667,7 @@ tahunan
 tahura
 tahu-tahu
 tahutu
-ta?z?bul-akhl?k
+taḥzībul-akhlāk
 tai
 taib
 taici
@@ -100834,7 +100834,7 @@ takbinasa
 takbir
 takbiran
 takbiratulihram
-takb?ratul-i?r?m
+takbīratul-iḥrām
 takbisa
 takboleh
 takbutuh
@@ -102395,7 +102395,7 @@ tayum
 tayum-temayum
 tazir
 tazkirah
-ta?k?ratun-nafsi
+tażkīratun-nafsi
 tb
 tb.
 tbc
@@ -106922,7 +106922,7 @@ tilas
 tilawah
 tilawat
 tilawatil
-til?watil-qur’?n
+tilāwatil-qur’ān
 tilde
 tile
 tilep
@@ -110420,7 +110420,7 @@ usus kecil
 usut
 usutan
 uswah
-uswatun-?asanah
+uswatun-ḥasanah
 ut
 ut infra
 utak-atik
@@ -111084,8 +111084,8 @@ vuring
 vvip
 w
 wa
-wa ’alaikumus-sal?m wa ra?matull?hi wa barak?tuh
-wa bill?hit-tauf?q wal-hid?yah
+wa ’alaikumus-salām wa raḥmatullāhi wa barakātuh
+wa billāhit-taufīq wal-hidāyah
 waad
 waadah
 waadat
@@ -111294,7 +111294,7 @@ waliullah
 wali-wali
 walkot
 wallahi
-wall?hu a’lam bi?-?aw?b
+wallāhu a’lam biṣ-ṣawāb
 wallahualam
 wallahualam bissawab
 walmana
@@ -112054,7 +112054,7 @@ xilonit
 xilosa
 xilotomi
 xilulosa
-xin nian kuai le (?????
+Xin Nian Kuai Le (新年快乐）
 xirofobia
 xister
 y
@@ -112066,7 +112066,7 @@ yafi
 yagi
 yah
 yahadian
-yahdikumull?h wa yuslihu b?lakum
+yahdikumullāh wa yuslihu bālakum
 yahrai
 yahu sume
 yahud
@@ -112124,7 +112124,7 @@ yapong
 yard
 yardang
 yargon
-yar?amukall?h
+yarḥamukallāh
 yarovisasi
 yarsun
 yasa
@@ -112145,14 +112145,14 @@ yaumulhisab
 yaumuljamak
 yaumuljaza
 yaumulkiamah
-yaumul-liq?’
+yaumul-liqā’
 yaumulmahsyar
 yaumulmizan
-yaumul-q?ri’ah
-yaumul-w?qiah
+yaumul-qāri’ah
+yaumul-wāqiah
 yaumul-zalzalah
-yaumur-r?jifah
-yaumus-s?iqah
+yaumur-rājifah
+yaumus-sāiqah
 yawa
 yawat
 yawatbon
