@@ -30,7 +30,7 @@ for term in terms:
 try:
     with open('fix/results.txt', 'w', encoding='utf-8') as file:
         for term, status in results.items():
-            file.write(f"{term}+{status}\n")
+            file.write(f"{term}: {status}\n")
 except Exception as e:
     print(f"Error writing to results file: {str(e)}")
     exit()
